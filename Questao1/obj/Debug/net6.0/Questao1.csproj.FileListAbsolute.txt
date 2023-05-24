@@ -1,0 +1,15 @@
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.csproj.AssemblyReference.cache
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfoInputs.cache
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.AssemblyInfo.cs
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.csproj.CoreCompileInputs.cache
+D:\DEV\Teste UOL\Questao1\bin\Debug\net6.0\Questao1.exe
+D:\DEV\Teste UOL\Questao1\bin\Debug\net6.0\Questao1.deps.json
+D:\DEV\Teste UOL\Questao1\bin\Debug\net6.0\Questao1.runtimeconfig.json
+D:\DEV\Teste UOL\Questao1\bin\Debug\net6.0\Questao1.dll
+D:\DEV\Teste UOL\Questao1\bin\Debug\net6.0\Questao1.pdb
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.dll
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\refint\Questao1.dll
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.pdb
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\Questao1.genruntimeconfig.cache
+D:\DEV\Teste UOL\Questao1\obj\Debug\net6.0\ref\Questao1.dll
